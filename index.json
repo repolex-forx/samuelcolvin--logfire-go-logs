@@ -1,0 +1,11 @@
+{
+  "org": "samuelcolvin",
+  "repo": "logfire-go-logs",
+  "versions": [
+    {
+      "commit": "8b3eba6d2f5fa9e345e080358590078797f6db78",
+      "tag": "",
+      "parsed_at": "2026-10-11T09:11:09.972310+00:00"
+    }
+  ]
+}
