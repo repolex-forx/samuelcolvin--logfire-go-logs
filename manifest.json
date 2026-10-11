@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "logfire-go-logs",
+  "versions": [
+    {
+      "commit": "8b3eba6d2f5fa9e345e080358590078797f6db78",
+      "parsed_at": "2026-10-11T09:09:00.917387+00:00",
+      "filetree": "filetree/8b3eba6d2f5fa9e345e080358590078797f6db78.nq.gz",
+      "blobs": [
+        "blob/d6a371eec334d8f413d16d296ae054cb90c3fe7d.nq.gz",
+        "blob/e6207f526a03af19d81159deb871e913aded11e8.nq.gz",
+        "blob/32e03e427af5386002b60c10e3db3ec62c9e9c80.nq.gz",
+        "blob/16ae11560c693d4386241c341d3a329de532b748.nq.gz",
+        "blob/c778973688158cb76eb5cedeee957f0662f11174.nq.gz",
+        "blob/5c2d8056ca0acfa7e04e9c0638b621b6de3e0c92.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
