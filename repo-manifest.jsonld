@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/logfire-go-logs/commit/8b3eba6d2f5fa9e345e080358590078797f6db78",
       "git:hexsha": "8b3eba6d2f5fa9e345e080358590078797f6db78",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
